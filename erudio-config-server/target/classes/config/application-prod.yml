@@ -1,0 +1,11 @@
+Spring.application.name: greeting-service
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+greeting-service: 
+ greeting: "Cia"
+ default-value: "Mondo"
