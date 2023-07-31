@@ -45,7 +45,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 385649352.index
 1374541106.index
 1311708888.index
-2069441230.index
 277816751.index
 623323893.index
 2054849273.index
