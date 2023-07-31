@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import br.com.erudio.response.Cambio;
 
-@FeignClient(name = "cambio-service")
+@FeignClient(name = "cambio-service") // permite fazer o balanceamento 
 public interface CambioProxy {
 
 	
