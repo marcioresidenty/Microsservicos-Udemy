@@ -1,4 +1,0 @@
-Spring.application.name: greeting-service
-greeting-service: 
- greeting: "olá"
- default-value: "Mundo"

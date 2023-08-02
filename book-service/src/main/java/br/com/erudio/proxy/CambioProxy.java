@@ -12,7 +12,7 @@ public interface CambioProxy {
 	
 	@GetMapping(value="/cambio-service/{amount}/{from}/{to}")
 	public Cambio getCambio(
-		@PathVariable("amount") Double amount,
-		@PathVariable("from") String from,
-		@PathVariable("to") String to);
+            @PathVariable Double amount,
+            @PathVariable String from,
+            @PathVariable String to);
 }
