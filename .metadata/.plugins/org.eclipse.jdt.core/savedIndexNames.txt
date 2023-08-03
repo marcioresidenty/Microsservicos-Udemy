@@ -2,8 +2,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 1624660233.index
 373784625.index
 3358659594.index
-810134550.index
-3194096958.index
 4134116140.index
 1360723942.index
 1374541106.index
@@ -20,7 +18,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 1766298682.index
 1201459679.index
 843591223.index
-3997178451.index
 579807314.index
 3488775024.index
 1950334869.index
@@ -65,7 +62,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 2599606266.index
 495489031.index
 414702822.index
-217199209.index
 819940011.index
 1222427639.index
 1483509218.index
@@ -79,7 +75,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 3259341282.index
 707588937.index
 1598738213.index
-3516833470.index
 3396651479.index
 2846102138.index
 2200119558.index
@@ -96,7 +91,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 2683077022.index
 2619951691.index
 3786935574.index
-2058261193.index
 1401173911.index
 1939673167.index
 3142705559.index
@@ -180,7 +174,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 3983497088.index
 1644854543.index
 2271112700.index
-2399393409.index
 623323893.index
 1166286539.index
 2000692550.index
@@ -221,7 +214,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos Spring Udemy\.metadata\.pl
 1021124833.index
 920644126.index
 978279800.index
-1998508486.index
 3012432596.index
 4293106215.index
 3166139652.index
