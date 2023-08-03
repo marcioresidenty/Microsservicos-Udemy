@@ -1,4 +1,4 @@
-package br.com.erudio.configuration;
+/* package br.com.erudio.configuration;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
@@ -25,3 +25,4 @@ public class ApiGatewayConfiguration {
 	}
  	
 }
+*/
