@@ -45,4 +45,7 @@ spring:
     - book_service
     user: root
     password: HC-1LOCAL
-
+springdoc:
+  show-actuator: true
+  api-docs:
+    path: book-service/v3/api-docs
