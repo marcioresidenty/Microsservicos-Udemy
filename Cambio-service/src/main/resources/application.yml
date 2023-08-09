@@ -25,6 +25,10 @@ spring:
     - cambio_service
     user: root
     password: HC-1LOCAL
+  management:
+    tracing:
+     sampling:
+      probability: 1.0
 springdoc:
   show-actuator: true
   api-docs:
